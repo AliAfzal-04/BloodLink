@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BloodLink — Blood Donor & Emergency Request Network
 
 [![tests](../../actions/workflows/ci.yml/badge.svg)](../../actions) ![license](https://img.shields.io/badge/license-MIT-blue) ![python](https://img.shields.io/badge/python-3.12-blue) ![db](https://img.shields.io/badge/SQLite%20%7C%20PostgreSQL%2016-tested-green)
@@ -313,3 +314,6 @@ volunteer driver coordination, and a mobile app wrapper.
 ## 11. Contributing and licence
 
 MIT licensed (see [LICENSE](LICENSE)). Contributions welcome: read [CONTRIBUTING.md](CONTRIBUTING.md) and [SECURITY.md](SECURITY.md).
+=======
+# BloodLink
+>>>>>>> 3001b34de8bc2c452146a086f70c0e641187101e
